@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior year undergraduate student at Thapar University where I am a part of the [Rana Research Group](https://groups.google.com/g/ranaresearchgroup) which focusses on developing efficient solutions for core AI,ML problems. I'm currently advised by Prof. [Prashant Singh Rana](https://www.psrana.com/). My current research interests include Deep Learning, Computer Vision, and Natural Language Processing.
+I am a junior year undergraduate student at Thapar University where I am a part of the [Rana Research Group](https://groups.google.com/g/ranaresearchgroup) which focusses on developing efficient solutions for core AI,ML problems. I'm currently advised by Prof. [Prashant Singh Rana](https://www.psrana.com/). My current research interests include Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.
 
 
 Publications
