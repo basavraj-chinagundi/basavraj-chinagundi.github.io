@@ -21,7 +21,7 @@ Publications
 
 Experience
 ======
-- Research Assistant @ Thapar University, Palo Alto CA, 2020 - Present
+- Research Assistant @ Thapar University, Patiala Punjab, 2020 - Present
 - Computer Vision Engineer Intern @ Govt.of India, Patiala Punjab, Aug 2021 - Dec 2021
 - NLP Research Intern @ Charles University, Prague Czechia, Jun 2021 - Dec 2021
 
