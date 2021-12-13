@@ -16,7 +16,8 @@ Publications
 - **Classification of Hate, Offensive and Profane content from Tweets using an Ensemble of Deep Contextualized and Domain Specific Representations** [link coming]
 - **Enhancing the Detection of abnormalities in knee movement using Anomaly Removal Techniques** [link coming]
 - **PugNet: A CNN Architecture to predict the Gender and Age of Blackbuck using Pugmarks** [link coming]
-- **Estimation of muscle force using forecasting methods** [manuscript phase]
+- **Estimation of muscle force using forecasting methods** [Draft]
+- **Ensemble learning based approach for Cement strength predicition** [Draft]
 
 Experience
 ======
