@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior year undergrad student at Thapar University where I am a part of the [Rana Research Group](https://groups.google.com/g/ranaresearchgroup) which focusses on developing efficient solutions for core AI,ML problems. I'm currently advised by Prof. [Prashant Singh Rana](https://www.psrana.com/). My current research interests include Deep Learning, Computer Vision, and Natural Language Processing.
+I am a junior year undergraduate student at Thapar University where I am a part of the [Rana Research Group](https://groups.google.com/g/ranaresearchgroup) which focusses on developing efficient solutions for core AI,ML problems. I'm currently advised by Prof. [Prashant Singh Rana](https://www.psrana.com/). My current research interests include Deep Learning, Computer Vision, and Natural Language Processing.
 
 
 Publications
@@ -22,7 +22,7 @@ Publications
 Experience
 ======
 - Research Assistant @ Thapar University, Palo Alto CA, 2020 - Present
-- Computer Vision Engineer intern @ Govt.of India, Patiala Punjab, Aug 2021 - Dec 2021
+- Computer Vision Engineer Intern @ Govt.of India, Patiala Punjab, Aug 2021 - Dec 2021
 - NLP Research Intern @ Charles University, Prague Czechia, Jun 2021 - Dec 2021
 
 Relevant Coursework
