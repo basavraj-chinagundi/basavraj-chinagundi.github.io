@@ -1,0 +1,31 @@
+- title: Agr-E
+  url: https://github.com/raj-chinagundi/Agr-E/tree/master
+  description: "Develop a functional rc controlled rover prototype that empowers farmers with precise and efficient farming techniques, AI based sustainable farming practices."
+  video: https://www.youtube.com/watch?v=lyFqsZXv5E4
+  highlight: 1
+
+- title: Fab-Defect
+  url: https://drive.google.com/file/d/1iWZkON7C6H8sg1zmCWeoE0JZrYiE2WyJ/view?usp=sharing
+  description: "Drove a dynamic team in constructing an automated Fabric Defect Detector that swiftly identifies and segregates defective cloth items, revolutionizing quality control processes and optimizing production outcomes in the fashion industry."
+  highlight: 2
+
+- title: hushVoice (Python/ Tensorflow.js/ React/ Netlify)
+  url: https://ritik-basav-mit.netlify.app/
+  description: "Developed AI-powered chat assistant web app to enable equal access for specially-abled individuals."
+  highlight: 4
+  
+- title: Swoonflix (Python/ Streamlit/ BeautifulSoup)
+  url: https://raj-chinagundi-swoonflix-app-o9hyye.streamlit.app/
+  description: "Built a cutting-edge content-based recommendation system by scraping 10k web pages using multi-threading. Has 9k+ diverse suggestions from 7 different countries."
+  highlight: 3
+
+- title: Dodge Chat
+  url: https://dodgechat.herokuapp.com/
+  description: "A socket-based chat app with 5 different rooms based on the interest group chosen by the user."
+  tags: HTML, CSS, JavaScript, NodeJS
+  
+- title: TrendyFitz
+  url: https://github.com/raj-chinagundi/Trendfitz
+  description: "Developed multi-label fashion item classification model using ResNet50. Found matching items with correlation score of 0.8 for latest trends using hashtags from social media when compared to filtered items on shopping sites like Amazon, Flipkart, Myntra."
+  tags: Python, Selenium, Beautiful Soup, Pytorch
+
