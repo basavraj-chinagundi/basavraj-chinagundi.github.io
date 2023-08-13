@@ -84,7 +84,7 @@ author:
   avatar           : "profile2.png"
   bio              : "Machine Learning, NLP & CV "
   location         : "Patiala, Punjab"
-  employer         :  Thapar University
+  # employer         :  Thapar University
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=C7rx36kAAAAJ"
   email            :  bchinagundi_be19@thapar.edu
