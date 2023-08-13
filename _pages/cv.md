@@ -18,8 +18,8 @@ Education
 Work experience
 ======
 * Samsung SDS: Software Developer Intern  [Mar 2023 - Jul 2023]
-  * Built a full-stack employee management application using Spring Boot and React.
-  * Implemented CRUD functionalities by using RestAPI.
+  * Built a full-stack Inventory management application using Spring Boot and React.
+  * Implemented CRUD functionalities using RestAPI.
   * Forecasted inventory stock requirements using time-series techniques.
 
 * Maven AI Technologies: Machine Learning Intern [Aug 2021 - Jan 2022]
