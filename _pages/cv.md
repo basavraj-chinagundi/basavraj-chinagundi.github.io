@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.E. in Electronics and Communication Engineering
-  Thapar Institute of Engineering and Technology, 2019-2023
-  CGPA: 8.62/10 
+  * Thapar Institute of Engineering and Technology, 2019-2023
+  * CGPA: 8.62/10 
 
 Work experience
 ======
