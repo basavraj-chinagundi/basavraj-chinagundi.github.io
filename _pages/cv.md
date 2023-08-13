@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Electronics and Communication Engineering
+  Thapar Institute of Engineering and Technology, 2019-2023
+  CGPA: 8.62/10 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Samsung SDS: Software Developer Intern  [Mar 2023 - Jul 2023]
+  * Built a full-stack employee management application using Spring Boot and React.
+  * Implemented CRUD functionalities by using RestAPI.
+  * Forecasted inventory stock requirements using time-series techniques.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Maven AI Technologies: Machine Learning Intern [Aug 2021 - Jan 2022]
+  * Generated unique guitar skins from text prompts using GANs.
+  * Worked on QandA Models for resolving generic customer queries.
+  * Developed a hybrid model combining background removal and Detectron 2 in single pipeline
+    for damage localization on the car body.
+    
+* Government of India: Computer Vision Intern [Aug 2021 - Jan 2022]
+  * Led a team to build an Automated UAV tracking and jamming system
+  * Created a database of 300k+ IR and RGB images using open-source videos.
+  * Yolov5 deployment on NVIDIA Jetson.
+    
+* Charles University: NLP Research Intern (Remote) [Jul 2021 - Dec 2021]
+  * Transformer Models for hate speech detection on Twitter Data
+  * Published Research Paper
+  * Supervisor: Dr.Muskaan Singh
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, C, C++, Javascript, SQL
+* Frameworks: Tensorflow 2, Keras, PyTorch, Numpy, Pandas, Scikit, NLTK, Spacy, OpenCV
+* Tools: Git, Docker
+* Cloud: Streamlit, Heroku, Netlify
 
 Publications
 ======
@@ -48,12 +57,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Extracurriculars
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Hackathons
+  • Amazon Hackon Semi-Finalists Amongst the top 20 teams across India.
+  • 1st position at Digital Village Hackathon with 30k INR reward.
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Leadership
+  • Project Lead at Google Developer Students Club for managing workflows of the open source 
+    projects.
