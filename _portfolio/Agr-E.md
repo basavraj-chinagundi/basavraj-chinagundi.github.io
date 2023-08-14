@@ -1,6 +1,6 @@
 ---
 title: "Agr-E"
-excerpt: "A functional rc controlled prototype rover using AI for precision farming<br/><img src='/images/500x300.png'>"
+excerpt: "A functional rc controlled prototype rover using AI for precision farming<br/><a href="https://github.com/raj-chinagundi/Agr-E/tree/master"><img src='/images/500x300.png'></a>"
 collection: portfolio
 ---
 
