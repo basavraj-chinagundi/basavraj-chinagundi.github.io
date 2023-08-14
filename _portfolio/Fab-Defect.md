@@ -1,6 +1,6 @@
 ---
 title: "Fab-Defect"
-excerpt: "An Automated Fabric Defect Detector that swiftly identifies and segregates defective cloth items<br/><img src='/images/500x300.png'>"
+excerpt: "An Automated Fabric Defect Detector that swiftly identifies and segregates defective cloth items<br/><img src='/images/fabdefect.png'>"
 collection: portfolio
 ---
 
