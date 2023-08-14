@@ -8,25 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior year undergraduate student at Thapar University where I am a part of the [Rana Research Group](https://groups.google.com/g/ranaresearchgroup) which focusses on developing efficient solutions for core AI,ML problems. I'm currently advised by Prof. [Prashant Singh Rana](https://www.psrana.com/). My current research interests include Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.
+Completed undergraduation in B.E Electronics and Communication Engineering at Thapar Institute of Engineering and Technology. Currently under the guidance of Prof. [Prashant Singh Rana](https://www.psrana.com/), where I am a part of the [Rana Research Group](https://groups.google.com/g/ranaresearchgroup) building solutions in the field of  Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.
 
+My interest lies in delving into the intricacies of NLP, particularly in the area that focuses on:
+  **Machine Translation**
+  **Multimodal NLP**
+  **NLP for social good**
+  **Large Language Models**
 
-Publications
+I'm open to discussion regarding potential research opportunities and collaborations.
+<!-- Publications
 =====
 - **Classification of Hate, Offensive and Profane content from Tweets using an Ensemble of Deep Contextualized and Domain Specific Representations** [link coming]
 - **Enhancing the Detection of abnormalities in knee movement using Anomaly Removal Techniques** [link coming]
 - **PugNet: A CNN Architecture to predict the Gender and Age of Blackbuck using Pugmarks** [link coming]
 - **Estimation of muscle force using forecasting methods** [Draft]
-- **Ensemble learning based approach for Cement strength predicition** [Draft]
+- **Ensemble learning based approach for Cement strength predicition** [Draft] -->
 
-Experience
+<!-- Experience
 ======
 - Research Assistant @ Thapar University, Patiala Punjab, 2020 - Present
 - Computer Vision Engineer Intern @ Govt.of India, Patiala Punjab, Aug 2021 - Dec 2021
-- NLP Research Intern @ Charles University, Prague Czechia, Jun 2021 - Dec 2021
+- NLP Research Intern @ Charles University, Prague Czechia, Jun 2021 - Dec 2021 -->
 
 Relevant Coursework
 =====
-- Machine Learning (CS229)
-- Convolutional Neural Networks for Visual Recognition (CS231n)
-- Deep Learning Specialization (deeplearning.ai)
+- Machine Learning
+- Data Structures and Algorithms
+- Object Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Architecture
+
+
