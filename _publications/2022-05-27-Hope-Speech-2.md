@@ -1,10 +1,10 @@
 ---
 title: " Aasha: Transformers based Hope-EDI"
 collection: publications
-permalink: /publication/2022-Hope-Speech-2
+permalink: /publication/2022-05-27-Hope-Speech-2
 excerpt: 'This paper describes team giniUs’ submission
 to the Hope Speech Detection for Equality, Diversity and Inclusion Shared Task organised by LT-EDI ACL 2022.'
-date: 2022
+date: 2022-05-27
 venue: 'LT-EDI-ACL2022'
 paperurl: 'http://raj-chinagundi.github.io/files/paper2.pdf'
 
