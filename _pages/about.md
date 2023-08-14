@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Completed undergraduation in B.E Electronics and Communication Engineering from <br/>
-Thapar Institute of Engineering and Technology. Currently under the guidance of Prof. [Prashant Singh Rana](https://www.psrana.com/), where I am a part of the [Rana Research Group](https://groups.google.com/g/ranaresearchgroup) building solutions in the field of  Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.
+[Thapar Institute of Engineering and Technology](https://www.thapar.edu/). Currently under the guidance of <br/> Dr. [Prashant Singh Rana](https://www.psrana.com/), where I am a part of the [Rana Research Group](https://groups.google.com/g/ranaresearchgroup) building solutions in the field of  Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.
 
 My interest lies in delving into the intricacies of NLP, particularly in the area that focuses on:
   - **Machine Translation**
