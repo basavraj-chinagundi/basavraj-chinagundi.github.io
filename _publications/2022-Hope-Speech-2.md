@@ -6,7 +6,7 @@ excerpt: 'This paper describes team giniUs’ submission
 to the Hope Speech Detection for Equality, Diversity and Inclusion Shared Task organised by LT-EDI ACL 2022.'
 date: 2022
 venue: 'LT-EDI-ACL2022'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://raj-chinagundi.github.io/files/paper2.pdf'
 
 ---
 This paper describes team giniUs’ submission

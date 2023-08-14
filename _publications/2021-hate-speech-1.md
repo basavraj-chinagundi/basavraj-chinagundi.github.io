@@ -5,7 +5,7 @@ permalink: /publication/2021-hate-speech-1
 excerpt: 'The hate speech and offensive content identification track (HASOC)[1] in FIRE 2021 English Subtask A track provides a forum and a data challenge for multilingual research on the identification of such problematic content.'
 date: 2021
 venue: 'FIRE 2021(ACM)'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://raj-chinagundi.github.io/files/paper1.pdf'
 
 ---
 The hate speech and offensive content identification track
