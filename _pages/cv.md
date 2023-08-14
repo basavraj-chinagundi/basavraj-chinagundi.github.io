@@ -60,9 +60,9 @@ Talks
 Extracurriculars
 ======
 * Hackathons
-  • Amazon Hackon Semi-Finalists Amongst the top 20 teams across India.
-  • 1st position at Digital Village Hackathon with 30k INR reward.
+  * Amazon Hackon Semi-Finalists Amongst the top 20 teams across India.
+  * 1st position at Digital Village Hackathon with 30k INR reward.
   
 * Leadership
-  • Project Lead at Google Developer Students Club for managing workflows of the open source 
+  * Project Lead at Google Developer Students Club for managing workflows of the open source 
     projects.
