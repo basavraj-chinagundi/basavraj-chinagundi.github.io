@@ -1,6 +1,6 @@
 ---
 title: "Agr-E"
-excerpt: "A functional rc controlled prototype rover using AI for precision farming<br/><img src='/images/500x300.png'>"
+excerpt: "A functional rc controlled prototype rover using AI for precision farming<br/><img src='/images/agre.png' width='479' height='324'>"
 collection: portfolio
 ---
 
