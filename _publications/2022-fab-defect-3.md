@@ -1,0 +1,14 @@
+---
+title: "Multilevel Deep Learning Model for Fabric Classification and Defect Detection"
+collection: publications
+permalink: /publication/2022-fab-defect-3
+excerpt: 'This article proposes an enhanced and more accurate approach to detecting tissue defects. Here, we compare the performance of various advanced deep learning models such as MobileNetV2, Xception, VGG19, and InceptionV3 and how their performance changes with the type of fabric.'
+date: 2022
+venue: 'ADCIS-2022(Springer SG)'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+
+---
+This article proposes an enhanced and more accurate approach to detecting tissue defects. Here, we compare the performance of various advanced deep learning models such as MobileNetV2, Xception, VGG19, and InceptionV3 and how their performance changes with the type of fabric.
+
+[Download paper here](https://link.springer.com/chapter/10.1007/978-981-99-0981-0_57)
+
