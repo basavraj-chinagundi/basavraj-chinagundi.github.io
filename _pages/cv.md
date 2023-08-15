@@ -22,7 +22,7 @@ Work experience
   * Implemented CRUD functionalities using RestAPI.
   * Forecasted inventory stock requirements using time-series techniques.
 
-* Maven AI Technologies: Machine Learning Intern [Aug 2021 - Jan 2022]
+* Maven AI Technologies: Machine Learning Intern [Jan 2022 - May 2022]
   * Generated unique guitar skins from text prompts using GANs.
   * Worked on QandA Models for resolving generic customer queries.
   * Developed a hybrid model combining background removal and Detectron 2 in single pipeline
