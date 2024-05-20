@@ -9,13 +9,14 @@ redirect_from:
 ---
 
 Graduated with a B.E in Electronic and Communications Engineering from <br/>
-[Thapar Institute of Engineering and Technology](https://www.thapar.edu/). Currently under the guidance of <br/> Dr. [Prashant Singh Rana](https://www.psrana.com/), where I am a part of the [Rana Research Group](https://groups.google.com/g/ranaresearchgroup) building solutions in the field of  Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.
+[Thapar Institute of Engineering and Technology](https://www.thapar.edu/). Currently working as an Analyst in the AI & Data Team @Deloitte USI. I work on developing generative AI solutions for various use cases in the Industry.
+My typical workday involves building rag systems, generative workflows, and chatbot solutions.
 
 My interest lies in delving into the intricacies of NLP, particularly in the area that focuses on:
-  - **Machine Translation**
+  - **Large Language Models**
   - **Multimodal NLP**
   - **NLP for social good**
-  - **Large Language Models**
+
 
 I'm open to discussion regarding potential research opportunities and collaborations.
 
