@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Basavraj Chinagundi"
   avatar           : "profile2.png"
-  bio              : "Machine Learning, NLP & CV "
-  location         : "Patiala, Punjab"
-  # employer         :  Thapar University
+  bio              : "NLP, Social Computing, Healthcare"
+  location         : "Bengaluru, Karnataka"
+   employer         :  Deloitte USI 
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=C7rx36kAAAAJ"
-  email            :  bchinagundi_be19@thapar.edu
+  email            :  rajchinagundi10@gmail.com
   twitter          : "tensor_rc"
   uri              :  
   bitbucket        :
