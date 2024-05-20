@@ -17,6 +17,8 @@ My interest lies in delving into the intricacies of NLP, particularly in the are
   - **Multimodal NLP**
   - **NLP for social good**
 
+My interest lies in building interactive robust AI systems that are socially aware & responsible for creating real-world impact.
+
 
 I'm open to discussion regarding potential research opportunities and collaborations.
 
