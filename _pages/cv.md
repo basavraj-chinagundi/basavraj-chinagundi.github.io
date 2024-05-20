@@ -17,6 +17,13 @@ Education
 
 Work experience
 ======
+
+* Deloitte USI: Analyst AI & Data [Oct 2023 - Present]
+  * Developed a RAG system with LangChain for a consolidated document (removing redundant content across multiple docs using gpt4-32k).
+  * Reduced app execution time by over 70% with asynchronous API calls.
+  * Created a code conversion workflow to convert ETL Cloud mappings into SQL using LLM's.
+
+
 * Samsung SDS: Software Developer Intern  [Mar 2023 - Jul 2023]
   * Built a full-stack Inventory management application using Spring Boot and React.
   * Implemented CRUD functionalities using RestAPI.
