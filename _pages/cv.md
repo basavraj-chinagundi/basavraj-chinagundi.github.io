@@ -48,7 +48,7 @@ Work experience
 Skills
 ======
 * Programming: Python, C, C++, Javascript, SQL
-* Frameworks: Tensorflow 2, Keras, PyTorch, Numpy, Pandas, Scikit, NLTK, Spacy, OpenCV
+* Frameworks: Langchain, Hugging Face, Scrapy, BeautifulSoup, Tensorflow 2, Keras, PyTorch, Numpy, Pandas, Scikit, NLTK, Spacy, OpenCV, Flask
 * Tools: Git, Docker
 * Cloud: Streamlit, Heroku, Netlify
 
